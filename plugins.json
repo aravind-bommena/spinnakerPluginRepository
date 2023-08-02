@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "22ecdcdf59f996a5aee667732eee050c8a37c87604f8da35a54e59667398a2caa7f6bc1629ac047ab3c7f09d88d3469909130e955c7c6ea66a2be1b545e862ac",
+        "sha512sum": "77eb5c66da325662f4ff78ba2d6bf1db2171dd0c108602d395a8eb7212647a8793808709db5172757d14aa560b9006d36dded96e97cbeb9cd84539b5b01ea7df",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -61,7 +61,7 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "4ec9cbaa2cb497e8cfc7ef05898b693ce63727e7c9d9e7c4678a843ac813d26153a597afc14a6dbc7764e99104627b7d6da23c45c312d2ded3ff27a8403b6a8c",
+        "sha512sum": "aaec778a6055273757081b5e41c391864a91dee893430398a3d07aebe7595e72069bdee1fa48ba7f396b200b71500f6408c5080d39ce803d4f0a200eb301a616",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -76,7 +76,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "06faa433ed6346cf00348fae1dc12a82609e3285c488b02857da2a1bdc6328055368db77f69a1db34d67cb86b964a80f23521dbc4dc57a5c174b153fe148a091",
+        "sha512sum": "c2c4590a4f467d69b524289bc415274c88fbfcbb69e7dddf3d61962fe4f7415991a66c8160d17b776ff81169551ac51e6d81af38b9cb02480a27cfc22ccef233",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
